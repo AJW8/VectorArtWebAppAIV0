@@ -1,5 +1,7 @@
 # Vector art web app
 
+A web app for creating vector art.  Features include line/curve/shape addition/customisation and SVG import/export.  Created with v0.
+
 *Automatically synced with [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aaronjw32-8869s-projects/v0-vector-art-web-app)
